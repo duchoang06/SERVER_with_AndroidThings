@@ -1,0 +1,16 @@
+<resources>
+    <string name="tag_detected">Tag detected!!!</string>
+    <string name="waiting_cmd">Choose either Read or Write!</string>
+    <string name="write">Write</string>
+    <string name="read">Read</string>
+    <string name="stop">Stop</string>
+    <string name="waiting">Waiting...</string>
+    <string name="unknown_error">Unexpected error occurred!</string>
+    <string name="fail">Operation failed!</string>
+    <string name="authentication_error">Cannot authenticate!</string>
+    <string name="write_error">Error upon writing to tag!</string>
+    <string name="success">Successful!</string>
+    <string name="tag_uid">bb</string>
+    <string name="read_error">Error upon reading from tag!</string>
+
+</resources>
